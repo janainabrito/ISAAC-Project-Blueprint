@@ -9,3 +9,5 @@ O projeto abrange o desenvolvimento de uma plataforma digital multifuncional com
 - **Análise e Relatórios em Tempo Real**: Geração automática de gráficos e relatórios de progresso em tempo real, permitindo uma análise contínua e detalhada. Ferramentas de análise ajudam a identificar padrões e ajustar os programas terapêuticos conforme necessário.
 - **Segurança e Privacidade**: Armazenamento seguro dos dados com criptografia e conformidade com regulamentações de privacidade. Controle de acesso para garantir que apenas pessoas autorizadas possam visualizar e editar os registros.
 - **Acessibilidade e Usabilidade**: Design responsivo que funciona bem em dispositivos móveis e desktops. Interface amigável e acessível.
+
+[Voltar](index.md)

@@ -12,3 +12,5 @@
 ## Impacto Geral
 - **Modernização do Processo de Terapia ABA**: A plataforma ISAAC transformará a maneira como os registros de terapia ABA são gerenciados, proporcionando uma solução moderna, eficiente e segura para todos os envolvidos.
 - **Melhoria nos Resultados Terapêuticos**: Com a análise contínua dos dados e a capacidade de intervenção rápida, os ajustes necessários nos programas terapêuticos serão identificados mais cedo, permitindo que as crianças sejam beneficiadas com as adaptações de forma mais rápida e individualizada.
+
+[Voltar](index.md)

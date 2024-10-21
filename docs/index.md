@@ -4,11 +4,10 @@
 
 ### Navegação
 
-- [README](README.md)
+- [README](../README.md)
 - [Proposta Técnico Científica](proposal.md)
 - [Objetivo Geral](objective.md)
 - [Escopo do Projeto](scope.md)
-- [Requisitos da Solução](requirements.md)
 - [Arquitetura da Solução](architecture.md)
 - [Resultados esperados](results.md)
 

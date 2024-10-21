@@ -22,4 +22,6 @@ A arquitetura da solução ISAAC será composta por diversos componentes integra
    - Sistema de backup: Rotinas de backup automatizadas para garantir a recuperação dos dados em caso de falhas.
 
 ## Diagramas
-*Aqui você pode incluir diagramas visuais da arquitetura, se necessário.*
+TBD
+
+[Voltar](index.md)
