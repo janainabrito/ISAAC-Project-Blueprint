@@ -12,7 +12,7 @@ ISAAC é uma plataforma digital inovadora para registro e acompanhamento de tera
 - Design responsivo e interface amigável.
 
 ## Documentação
-A documentação completa do projeto pode ser acessada em: https://janainabrito.github.io/ISAAC-Project-Blueprint/docs
+A documentação completa do projeto pode ser acessada em: [Documentação](/docs/index.md)
 
 ## Tecnologias Utilizadas
 - **Frontend**: React.js
@@ -31,7 +31,7 @@ A documentação completa do projeto pode ser acessada em: https://janainabrito.
 ### Passos
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/isaac.git
+   git clone https://github.com/janainabrito/ISAAC-Project-Blueprint.git
    cd isaac
 
 2. Instale as dependências
