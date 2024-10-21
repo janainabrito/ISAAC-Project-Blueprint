@@ -1,21 +1,16 @@
-<html>
-<head>
-    <title>ISAAC: Integrated System for Analysis and Application Control/title>
-</head>
-<body>
-    <h1>O Sistema Integrado de Análise e Controle de Aplicações (ISAAC) é uma plataforma digital inovadora para registro e acompanhamento de terapias ABA. Seu objetivo é otimizar o processo de registro, análise e controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais de saúde e famílias.</h1>
-    <nav>
-        <ul>
-            <li><a href="README.md">README</a></li>
-            <li><a href="requirements.md">Requisitos da Solução</a></li>
-            <li><a href="proposal.md">Proposta Técnica</a></li>
-            <li><a href="architecture.md">Arquitetura da Solução</a></li>
-            <!-- Adicione mais links conforme necessário -->
-        </ul>
-    </nav>
-</body>
-</html>
+# ISAAC: Integrated System for Analysis and Application Control
 
+## O Sistema Integrado de Análise e Controle de Aplicações (ISAAC) é uma plataforma digital inovadora para registro e acompanhamento de terapias ABA. Seu objetivo é otimizar o processo de registro, análise e controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais de saúde e famílias.
+
+### Navegação
+
+- [README](README.md)
+- [Proposta Técnico Científica](proposal.md)
+- [Objetivo Geral](objective.md)
+- [Escopo do Projeto](scope.md)
+- [Requisitos da Solução](requirements.md)
+- [Arquitetura da Solução](architecture.md)
+- [Resultados esperados](results.md)
 
 ## Contribuição
 1. Fork o repositório.
