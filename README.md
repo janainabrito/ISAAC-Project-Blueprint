@@ -3,7 +3,6 @@
 ## Descrição do Projeto
 ISAAC é uma plataforma digital inovadora para registro e acompanhamento de terapias ABA. Seu objetivo é otimizar o processo de registro, análise e controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais de saúde e famílias.
 
-
 ## Funcionalidades
 - Criação e edição de programas de ensino de habilidades personalizados.
 - Registro digital dos programas aplicados nas sessões de terapia.
@@ -12,12 +11,44 @@ ISAAC é uma plataforma digital inovadora para registro e acompanhamento de tera
 - Armazenamento seguro dos dados com criptografia.
 - Design responsivo e interface amigável.
 
-## Estrutura do Projeto
-- **Frontend**: React.js para construção de interfaces dinâmicas e responsivas.
-- **Backend**: Node.js com Express para serviços rápidos e escaláveis.
-- **Banco de Dados**: MongoDB para armazenamento de dados não-relacionais.
-- **Autenticação**: JWT (JSON Web Tokens) para autenticação segura.
-- **Infraestrutura**: Heroku ou AWS para hospedagem.
-
 ## Documentação
-A documentação completa do projeto pode ser acessada em: https://janainabrito.github.io/ISAAC-Project-Blueprint/
+A documentação completa do projeto pode ser acessada em: https://janainabrito.github.io/ISAAC-Project-Blueprint/docs
+
+## Tecnologias Utilizadas
+- **Frontend**: React.js
+- **Backend**: Node.js com Express
+- **Banco de Dados**: MongoDB
+- **Autenticação**: JWT (JSON Web Tokens)
+- **Hospedagem**: Heroku ou AWS
+
+## Executando o Projeto Localmente
+
+### Pré-requisitos
+- Node.js instalado
+- MongoDB em execução localmente ou através de um serviço como MongoDB Atlas
+- Conta no GitHub para clonar o repositório
+
+### Passos
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/seu-usuario/isaac.git
+   cd isaac
+
+2. Instale as dependências
+   ```bash
+    npm install
+
+3. Configuração do Banco de Dados
+- Crie um arquivo .env na raiz do projeto.
+- Adicione as variáveis de ambiente para conectar ao seu banco de dados MongoDB:
+   ```bash
+    MONGO_URI=mongodb://localhost:27017/isaac
+    JWT_SECRET=sua_chave_secreta
+
+4. Execute a aplicação
+   ```bash
+    npm start
+
+5. Acesse a documentação da Interface de Usuário e da API (TBD)
+- Interface do usuário: http://localhost:3000
+- Documentação da API: http://localhost:3000/api-docs
