@@ -44,7 +44,6 @@ Utiliza JWT para garantir a segurança das comunicações entre cliente e servid
 ### Hospedagem (AWS)
 WS é escolhida como plataforma de deploy devido à sua escalabilidade, alta disponibilidade, robusta proteção de dados e uma gama de serviços integrados que facilitam o desenvolvimento e a manutenção da aplicação.
 
-
 ## Fluxo de Dados
 1. Usuário acessa a aplicação através do navegador.
 2. Frontend envia requisições HTTP para o Backend.
