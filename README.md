@@ -1,5 +1,5 @@
 ## Descrição do Projeto
-ISAAC (Integrated System for Analysis and Application Control) é uma plataforma digital para registro e acompanhamento de terapias ABA. Seu objetivo é otimizar o processo de registro de dados das sessões, bem como a análise e o controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais e famílias.
+**ISAAC (_Integrated System for Analysis and Application Control_)** é uma plataforma digital para registro e acompanhamento de terapias ABA (_Applied Behavior Analysis_). Seu objetivo é otimizar o processo de registro de dados das sessões, bem como a análise e o controle dos dados das terapias de crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais e familiares
 
 ## Funcionalidades
 - Criação e edição de programas de ensino de habilidades indidividuais.
@@ -28,20 +28,19 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
 
 ### Passos
 
-
-1. Clone o repositório
+## Clone o repositório
 
 ```bash
    git clone https://github.com/janainabrito/ISAAC-Project-Blueprint.git
    cd isaac
 ```
 
-2. Instale as dependências
+## Instale as dependências
 ```bash
    npm install
 ```
 
-3. Configuração do Banco de Dados
+## Configuração do Banco de Dados
 - Crie um arquivo .env na raiz do projeto.
 - Adicione as variáveis de ambiente para conectar ao seu banco de dados MongoDB:
  
@@ -50,10 +49,10 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
    JWT_SECRET=sua_chave_secreta
 ```
 
-4. Execute a aplicação
+## Execute a aplicação
 ```bash
    npm start
 ```
-5. Acesse a documentação da Interface de Usuário e da API **(TBD)**
+## Acesse a documentação da Interface de Usuário e da API **(TBD)**
 - Interface do usuário: [http://localhost:3000](http://localhost:3000)
 - Documentação da API: [http://localhost:3000/api-docs](http://localhost:3000/api-docs)
