@@ -28,19 +28,19 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
 
 ### Passos
 
-#### Clone o repositório
+#### 1. Clone o repositório
 
 ```bash
    git clone https://github.com/janainabrito/ISAAC-Project-Blueprint.git
    cd isaac
 ```
 
-#### Instale as dependências
+#### 2. Instale as dependências
 ```bash
    npm install
 ```
 
-#### Configuração do Banco de Dados
+#### 3. Configuração do Banco de Dados
 - Crie um arquivo .env na raiz do projeto.
 - Adicione as variáveis de ambiente para conectar ao seu banco de dados MongoDB:
  
@@ -49,10 +49,10 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
    JWT_SECRET=sua_chave_secreta
 ```
 
-#### Execute a aplicação
+#### 4. Execute a aplicação
 ```bash
    npm start
 ```
-#### Acesse a documentação da Interface de Usuário e da API **(TBD)**
+#### 5. Acesse a documentação da Interface de Usuário e da API **(TBD)**
 - Interface do usuário: [http://localhost:3000](http://localhost:3000)
 - Documentação da API: [http://localhost:3000/api-docs](http://localhost:3000/api-docs)

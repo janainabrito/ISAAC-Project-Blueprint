@@ -3,15 +3,6 @@
 ## Visão Geral
 A arquitetura da solução ISAAC será composta por diversos componentes integrados, que garantem eficiência, segurança e acessibilidade.
 
-## Componentes Principais
-
-### Front-end
-- **Aplicativo móvel**: Desenvolvido em frameworks como React Native ou Flutter para garantir uma experiência de usuário fluida em dispositivos Android e iOS.
-- **Portal web**: Desenvolvido utilizando frameworks como React ou Angular para uma interface amigável e responsiva.
-
-### Back-end
-- **API RESTful**: Implementada em Node.js ou Django para gerenciar a comunicação entre o front-end e o banco de dados.
-
 ## Arquitetura de Software
 
 ### Camadas da Arquitetura
