@@ -38,6 +38,13 @@ A arquitetura da solução ISAAC será composta por diversos componentes integra
 - Utilização de MongoDB para armazenamento dos dados das sessões de terapia, programas de ensino e usuários.
 - Armazenamento seguro com criptografia.
 
+### Autenticação (JWT)
+Utiliza JWT para garantir a segurança das comunicações entre cliente e servidor. JWT é uma forma segura e compacta de transmitir informações, amplamente usada para autenticação e troca segura de informações.
+
+### Hospedagem (AWS)
+WS é escolhida como plataforma de deploy devido à sua escalabilidade, alta disponibilidade, robusta proteção de dados e uma gama de serviços integrados que facilitam o desenvolvimento e a manutenção da aplicação.
+
+
 ## Fluxo de Dados
 1. Usuário acessa a aplicação através do navegador.
 2. Frontend envia requisições HTTP para o Backend.
