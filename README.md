@@ -1,10 +1,8 @@
-# ISAAC: Integrated System for Analysis and Application Control
-
 ## Descrição do Projeto
-ISAAC é uma plataforma digital inovadora para registro e acompanhamento de terapias ABA. Seu objetivo é otimizar o processo de registro, análise e controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais de saúde e famílias.
+ISAAC (Integrated System for Analysis and Application Control) é uma plataforma digital para registro e acompanhamento de terapias ABA. Seu objetivo é otimizar o processo de registro de dados das sessões, bem como a análise e o controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais e famílias.
 
 ## Funcionalidades
-- Criação e edição de programas de ensino de habilidades personalizados.
+- Criação e edição de programas de ensino de habilidades indidividuais.
 - Registro digital dos programas aplicados nas sessões de terapia.
 - Acompanhamento em tempo real do progresso da criança.
 - Geração automática de gráficos e relatórios de progresso.
@@ -12,7 +10,7 @@ ISAAC é uma plataforma digital inovadora para registro e acompanhamento de tera
 - Design responsivo e interface amigável.
 
 ## Documentação
-A documentação completa do projeto pode ser acessada em: [Documentação](/docs/index.md)
+A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
 
 ## Tecnologias Utilizadas
 - **Frontend**: React.js
@@ -29,26 +27,33 @@ A documentação completa do projeto pode ser acessada em: [Documentação](/doc
 - Conta no GitHub para clonar o repositório
 
 ### Passos
-1. **Clone o repositório**
-   ```bash
+
+
+1. Clone o repositório
+
+```bash
    git clone https://github.com/janainabrito/ISAAC-Project-Blueprint.git
    cd isaac
+```
 
 2. Instale as dependências
-   ```bash
-    npm install
+```bash
+   npm install
+```
 
 3. Configuração do Banco de Dados
 - Crie um arquivo .env na raiz do projeto.
 - Adicione as variáveis de ambiente para conectar ao seu banco de dados MongoDB:
-   ```bash
-    MONGO_URI=mongodb://localhost:27017/isaac
-    JWT_SECRET=sua_chave_secreta
+ 
+```bash
+   MONGO_URI=mongodb://localhost:27017/isaac
+   JWT_SECRET=sua_chave_secreta
+```
 
 4. Execute a aplicação
-   ```bash
-    npm start
-
-5. Acesse a documentação da Interface de Usuário e da API (TBD)
-- Interface do usuário: http://localhost:3000
-- Documentação da API: http://localhost:3000/api-docs
+```bash
+   npm start
+```
+5. Acesse a documentação da Interface de Usuário e da API **(TBD)**
+- Interface do usuário: [http://localhost:3000](http://localhost:3000)
+- Documentação da API: [http://localhost:3000/api-docs](http://localhost:3000/api-docs)
