@@ -9,4 +9,5 @@ O Sistema Integrado de Análise e Controle de Aplicações (ISAAC) é uma plataf
 - [Objetivo Geral](objective.md)
 - [Escopo do Projeto](scope.md)
 - [Arquitetura da Solução](architecture.md)
+- [Desenho da Arquitetura](architectural_drawing.md)
 - [Resultados esperados](results.md)
