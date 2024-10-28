@@ -17,7 +17,7 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
 - **Backend**: Node.js com Express
 - **Banco de Dados**: MongoDB
 - **Autenticação**: JWT (JSON Web Tokens)
-- **Hospedagem**: Heroku ou AWS
+- **Hospedagem**: AWS (Amazon Web Services)
 
 ## Executando o Projeto Localmente
 
