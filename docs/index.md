@@ -1,6 +1,6 @@
 # ISAAC: Integrated System for Analysis and Application Control
 
-O Sistema Integrado de Análise e Controle de Aplicações (ISAAC) é uma plataforma digital inovadora para registro e acompanhamento de terapias ABA (_Applied Behavior Analysis_). Resumidamente, seu objetivo é otimizar o processo de registro, análise e controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais de saúde e familiares.
+O Sistema Integrado de Análise e Controle de Aplicações (ISAAC) é uma plataforma digital para registro e acompanhamento de terapias ABA (_Applied Behavior Analysis_). De um modo geral, seu objetivo é otimizar o processo de registro, análise e controle dos dados das terapias para crianças com Transtorno do Espectro Autista (TEA), proporcionando uma solução eficiente, segura e acessível para profissionais de saúde e familiares.
 
 - [Motivação Pessoal](motivation.md)
 - [Objetivo Geral](objective.md)
