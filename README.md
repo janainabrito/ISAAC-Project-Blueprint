@@ -40,7 +40,7 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
    npm install
 ```
 
-#### 3. Configuração do Banco de Dados **(TBD)**
+#### 3. Configuração do Banco de Dados **_(TBD)_**
 - Crie um arquivo .env na raiz do projeto.
 - Adicione as variáveis de ambiente para conectar ao seu banco de dados MongoDB:
 
@@ -49,10 +49,10 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
    JWT_SECRET=sua_chave_secreta
 ```
 
-#### 4. Execute a aplicação **(TBD)**
+#### 4. Execute a aplicação **_(TBD)_**
 ```bash
    npm start
 ```
-#### 5. Acesse a documentação da Interface de Usuário e da API **(TBD)**
+#### 5. Acesse a documentação da Interface de Usuário e da API **_(TBD)_**
 - Interface do usuário: [http://localhost:3000](http://localhost:3000)
 - Documentação da API: [http://localhost:3000/api-docs](http://localhost:3000/api-docs)

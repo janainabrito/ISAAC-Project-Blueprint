@@ -12,6 +12,6 @@
 ## Impacto Geral
 - **Modernização do Processo de Terapia ABA**: ISAAC transformará a maneira como os registros das aplicações de terapia ABA são realizados e gerenciados, proporcionando uma solução moderna, eficiente e segura.
 
-- **Melhoria nos Resultados Terapêuticos**: Com a análise contínua dos dados propiciando uma intervenção rápida e assertiva, os ajustes necessários nos programas terapêuticos serão identificados e realizados mais rapidamente, permitindo que as crianças sejam beneficiadas com as adaptações necessárias de forma mais rápida e individualizada.
+- **Melhoria nos Resultados Terapêuticos**: Com a análise contínua dos dados propiciando uma intervenção rápida e assertiva, os ajustes necessários nos programas terapêuticos serão identificados e realizados mais rapidamente, permitindo que as crianças sejam beneficiadas com as adaptações necessárias de forma rápida e individualizada.
 
 [Voltar](index.md)
