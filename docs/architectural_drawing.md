@@ -24,6 +24,6 @@ A arquitetura da solução ISAAC foi cuidadosamente planejada para garantir efic
 - **Sistema de backup**: Rotinas de backup automatizadas para garantir a recuperação dos dados em caso de falhas.
 
 ## Diagrama
-![ISAAC](../img/ISAAC%20Architecture.png)
+![ISAAC](../img/ISAAC-Architecture.png)
 
 [Voltar](index.md)

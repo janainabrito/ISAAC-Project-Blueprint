@@ -1,7 +1,7 @@
 # Arquitetura da Solução
 
 ## Visão Geral
-A arquitetura da solução ISAAC será composta por diversos componentes integrados, que garantem eficiência, segurança e acessibilidade.
+A arquitetura da solução ISAAC será composta por diversos componentes integrados, que garantem eficiência, segurança e acessibilidade. Utilizaremos a arquitetura MERN (MongoDB, Express, React, Node.js) para proporcionar uma solução robusta e escalável.
 
 ## Arquitetura de Software
 
