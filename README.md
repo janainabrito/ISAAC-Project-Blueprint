@@ -40,16 +40,16 @@ A documentação técnica do projeto pode ser acessada [AQUI](/docs/index.md).
    npm install
 ```
 
-#### 3. Configuração do Banco de Dados
+#### 3. Configuração do Banco de Dados **(TBD)**
 - Crie um arquivo .env na raiz do projeto.
 - Adicione as variáveis de ambiente para conectar ao seu banco de dados MongoDB:
- 
+
 ```bash
    MONGO_URI=mongodb://localhost:27017/isaac
    JWT_SECRET=sua_chave_secreta
 ```
 
-#### 4. Execute a aplicação
+#### 4. Execute a aplicação **(TBD)**
 ```bash
    npm start
 ```

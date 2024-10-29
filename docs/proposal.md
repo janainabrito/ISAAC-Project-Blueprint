@@ -11,7 +11,7 @@ Atualmente, a maioria dos profissionais que atendem crianças com TEA utilizam m
 - **Impressão das Folhas de Registro**: As famílias precisam frequentemente imprimir as folhas de registro e os programas para os ATs (Acompanhantes Terapêuticas). Esquecimentos comprometem os programas do dia e a preocupação constante com papel e tinta da impressora adicionam mais estresse e desperdício ao processo.
 
 ## A Solução Proposta
-Desenvolver a solução **Integrated System for Analysis and Application Control (ISAAC)**, uma plataforma digital acessível via aplicativo móvel e portal web, que permita aos profissionais de saúde registrar, acompanhar e analisar os programas de terapia ABA de maneira eficiente e segura.
+Desenvolver a solução **Integrated System for Analysis and Application Control (ISAAC)**, uma plataforma digital acessível via portal web, que permite aos profissionais de saúde registrar, acompanhar e analisar os programas de terapia ABA de maneira eficiente e segura.
 
 ## Conclusão
 A implementação de ISAAC transformará a maneira como os registros de terapia ABA são gerenciados, proporcionando uma solução moderna, eficiente e segura para todos os envolvidos. Com a análise contínua dos dados e a capacidade de intervenção rápida, os ajustes necessários nos programas terapêuticos serão identificados mais cedo, permitindo que as crianças sejam beneficiadas com as adaptações de forma mais rápida e individualizada.

@@ -1,6 +1,4 @@
-# Arquitetura da Solução
-
-## Desenho da Arquitetura
+# Desenho da Arquitetura
 
 A arquitetura da solução ISAAC foi cuidadosamente planejada para garantir eficiência, segurança e escalabilidade. Cada componente desempenha um papel crucial para proporcionar uma melhor experiência para o usuário e garantir que todas as operações sejam executadas de forma eficaz.
 
